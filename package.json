@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
+    "iview": "^2.1.0",
     "lodash": "^4.17.4",
     "normalize.css": "^7.0.0",
     "vue": "^2.3.3",

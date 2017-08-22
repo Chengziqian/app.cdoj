@@ -6,6 +6,9 @@ import App from './App.vue'
 Vue.config.productionTip = false
 
 import 'normalize.css'
+import iView from 'iview'
+import 'iview/dist/styles/iview.css'
+Vue.use(iView)
 
 import axios from 'axios'
 axios.defaults.baseURL = '/api/'
